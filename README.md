@@ -38,8 +38,14 @@ Features:
 
 ## 🎬 Generated Short Clips
 
-<img src="assets/1.gif" width="48%" alt="Generated Clip 1" />
-<img src="assets/2.gif" width="48%" alt="Generated Clip 2" />
+<p float="left">
+  <a href="https://github.com/rumenguin/ai-podcast-clipper/assets/1.mp4">
+    <img src="assets/11.png" width="48%" alt="Clip 1 Thumbnail" />
+  </a>
+  <a href="https://github.com/rumenguin/ai-podcast-clipper/assets/2.mp4">
+    <img src="assets/22.png" width="48%" alt="Clip 2 Thumbnail" />
+  </a>
+</p>
 
 
 ## Setup
