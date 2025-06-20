@@ -38,8 +38,8 @@ Features:
 
 ## 🎬 Generated Short Clips
 
-<img src="assets/1.gif" width="48%" />
-<img src="assets/2.gif" width="48%" />
+<img src="assets/1.gif" width="48%" alt="Generated Clip 1" />
+<img src="assets/2.gif" width="48%" alt="Generated Clip 2" />
 
 
 ## Setup
