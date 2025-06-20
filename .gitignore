@@ -24,7 +24,7 @@ pnpm-debug.log*
 !.vscode/extensions.json
 *.sublime-workspace
 
-*.mp4
+
 
 # Database files
 *.sqlite
